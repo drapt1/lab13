@@ -9,7 +9,6 @@ int main()
 	cin >> m;
 	a = m++ - -n;
 	cout << a << endl;
-
 	cin >> n;
 	cin >> m;
 	b = m++ > ++n;
@@ -19,5 +18,4 @@ int main()
 	cin >> m;
 	c = n-- > --m;
 	cout << c << endl;
-
 }
