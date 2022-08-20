@@ -1,7 +1,5 @@
 ﻿#include <iostream>
-
 using namespace std;
-
 int main()
 {
 	float n, m, a, b, c;
